@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/adityasrivastava/Desktop/MCQProject/Parse-Transition-aws-my-sample-app-android/MySampleApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/adityasrivastava/Desktop/MCQProject/Parse-Transition-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.0_42e67bf3e7b897a1d6e292c2a531f431ae2024ae/classes.dex" />
+    </item>
+    <item
+        jar="/Users/adityasrivastava/Desktop/MCQProject/Parse-Transition-aws-my-sample-app-android/MySampleApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="26bbe3964e190b1dfcea0911d560916420cc935e">
+        <dex dex="/Users/adityasrivastava/Desktop/MCQProject/Parse-Transition-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ed593e3f67c6e67f6aae424ea9eb974dda378e1f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/adityasrivastava/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-mobileanalytics/2.2.18/a06f95d65ef06a969735fc75c08f7551bb2d86af/aws-android-sdk-mobileanalytics-2.2.18.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a06f95d65ef06a969735fc75c08f7551bb2d86af">
+        <dex dex="/Users/adityasrivastava/Desktop/MCQProject/Parse-Transition-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-mobileanalytics-2.2.18_dad9608a3e5cfe8d0575810da23928468f073cc3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/adityasrivastava/Desktop/MCQProject/Parse-Transition-aws-my-sample-app-android/MySampleApp/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/adityasrivastava/Desktop/MCQProject/Parse-Transition-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_cce939ca66043db63d8cb58c3bc89cf3d9b05062/classes.dex" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/adityasrivastava/Desktop/MCQProject/Parse-Transition-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.2.4_d0ce76b63ce905fbab3c5d385c8e1b8692010f19/classes.dex" />
+    </item>
+    <item
+        jar="/Users/adityasrivastava/Desktop/MCQProject/Parse-Transition-aws-my-sample-app-android/MySampleApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="479c821974f30a59c63c0e7a369014615704b522">
+        <dex dex="/Users/adityasrivastava/Desktop/MCQProject/Parse-Transition-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_da781eb12051772aee175a1a7774ca15a53ddbb3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/adityasrivastava/Desktop/MCQProject/Parse-Transition-aws-my-sample-app-android/MySampleApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/adityasrivastava/Desktop/MCQProject/Parse-Transition-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.0_69457a30343e36a77263296185309f981e17c151/classes.dex" />
+    </item>
+    <item
+        jar="/Users/adityasrivastava/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-core/2.2.18/802a5fa1642253476592c2ee55930578e499fe63/aws-android-sdk-core-2.2.18.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="802a5fa1642253476592c2ee55930578e499fe63">
+        <dex dex="/Users/adityasrivastava/Desktop/MCQProject/Parse-Transition-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-core-2.2.18_e1ed66fed457fbc51b6348bbfb8b5d2dcbddd735/classes.dex" />
+    </item>
+    <item
+        jar="/Users/adityasrivastava/Desktop/MCQProject/Parse-Transition-aws-my-sample-app-android/MySampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/adityasrivastava/Desktop/MCQProject/Parse-Transition-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.0_b1cc3dc57465103246831bd9cb44ccdfc1897466/classes.dex" />
+    </item>
+    <item
+        jar="/Users/adityasrivastava/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-cognito/2.2.18/c4bf9dca3b2cbf00f5a3c7c95d4b69f4f14094dd/aws-android-sdk-cognito-2.2.18.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c4bf9dca3b2cbf00f5a3c7c95d4b69f4f14094dd">
+        <dex dex="/Users/adityasrivastava/Desktop/MCQProject/Parse-Transition-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-cognito-2.2.18_140f946e4f4cff4b2568808ec26bec4f5fd1bdf2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/adityasrivastava/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/adityasrivastava/Desktop/MCQProject/Parse-Transition-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.0_d8d2df871887cfcc958ee0cc350f970934d1aa66/classes.dex" />
+    </item>
+
+</items>
